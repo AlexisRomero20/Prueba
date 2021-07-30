@@ -8,3 +8,9 @@ D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.pdb
 D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.CoreCompileInputs.cache
 D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
 D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb
+D:\Prod2Clonado\Prueba\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.dll
+D:\Prod2Clonado\Prueba\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.pdb
+D:\Prod2Clonado\Prueba\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.AssemblyReference.cache
+D:\Prod2Clonado\Prueba\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.CoreCompileInputs.cache
+D:\Prod2Clonado\Prueba\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
+D:\Prod2Clonado\Prueba\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb

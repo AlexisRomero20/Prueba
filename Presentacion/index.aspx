@@ -11,6 +11,7 @@
     <form id="form1" runat="server">
         <div>
             <br />
+            <h2>CLIENTES</h2>
             <asp:Label ID="Label1" runat="server" Text="Nombre"></asp:Label>
             <asp:TextBox ID="txbNombre" runat="server"></asp:TextBox>
             <asp:RequiredFieldValidator runat="server" ID="RequiredFieldValidator_Nombre" ControlToValidate="txbNombre"

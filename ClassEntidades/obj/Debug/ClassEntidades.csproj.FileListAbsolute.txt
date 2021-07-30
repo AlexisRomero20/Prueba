@@ -10,3 +10,9 @@ D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj
 D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.dll
 D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.pdb
 D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+D:\Prod2Clonado\Prueba\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\Prod2Clonado\Prueba\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\Prod2Clonado\Prueba\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+D:\Prod2Clonado\Prueba\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\Prod2Clonado\Prueba\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\Prod2Clonado\Prueba\ClassEntidades\obj\Debug\ClassEntidades.pdb

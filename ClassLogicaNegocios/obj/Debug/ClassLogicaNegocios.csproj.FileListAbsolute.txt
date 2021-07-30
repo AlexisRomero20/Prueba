@@ -20,3 +20,14 @@ D:\alexi\Documents\Producto\Prod2\ClassLogicaNegocios\obj\Debug\ClassLogicaNegoc
 D:\alexi\Documents\Producto\Prod2\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
 D:\alexi\Documents\Producto\Prod2\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
 D:\alexi\Documents\Producto\Prod2\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.dll
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\bin\Debug\ClassLogicaNegocios.pdb
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\bin\Debug\ClassAccesoSQL.dll
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\bin\Debug\ClassEntidades.dll
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\bin\Debug\ClassAccesoSQL.pdb
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\bin\Debug\ClassEntidades.pdb
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.AssemblyReference.cache
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CoreCompileInputs.cache
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.csproj.CopyComplete
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.dll
+D:\Prod2Clonado\Prueba\ClassLogicaNegocios\obj\Debug\ClassLogicaNegocios.pdb
