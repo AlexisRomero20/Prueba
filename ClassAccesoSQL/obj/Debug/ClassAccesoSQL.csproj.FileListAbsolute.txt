@@ -1,0 +1,10 @@
+D:\2019\Prod2\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.dll
+D:\2019\Prod2\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.pdb
+D:\2019\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.CoreCompileInputs.cache
+D:\2019\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
+D:\2019\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb
+D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.dll
+D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\bin\Debug\ClassAccesoSQL.pdb
+D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.dll
+D:\alexi\Documents\Producto\Prod2\ClassAccesoSQL\obj\Debug\ClassAccesoSQL.pdb

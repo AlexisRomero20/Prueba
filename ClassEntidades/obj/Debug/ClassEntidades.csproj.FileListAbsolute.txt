@@ -1,0 +1,12 @@
+D:\2019\Prod2\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\2019\Prod2\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\2019\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\2019\Prod2\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\2019\Prod2\ClassEntidades\obj\Debug\ClassEntidades.pdb
+D:\2019\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+D:\alexi\Documents\Producto\Prod2\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\alexi\Documents\Producto\Prod2\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.pdb
+D:\alexi\Documents\Producto\Prod2\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
